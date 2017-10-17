@@ -1,6 +1,0 @@
-git clone git://github.com/kocerev14/sinatra-app-oleg.git
-cd tumblr-dashboard-rss-sinatra-app-oleg/
-rvm gemset create 'sinatra-app-oleg'
-gem install bundle
-bundle install
-heroku create --stack bamboo-mri-1.9.2
